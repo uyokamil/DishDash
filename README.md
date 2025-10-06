@@ -28,6 +28,8 @@ The game features:
 - **Music & Environmental Assets:** Kenney.nl (3D assets), Youtube Audio Library (music)
 - **Raw Sound Effects:** Freesound.org CC-0 Sound Effects, edited and mixed
 
+Some assets have been omitted in this open-source release as they have not been copyright cleared.
+
 ---
 
 Made with ☕ in one week
