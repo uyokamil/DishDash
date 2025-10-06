@@ -8,7 +8,7 @@ A fast-paced cooking game where you prepare, combine, and serve dishes across th
 
 ## About
 
-DishDash challenges you to manage multiple orders, prep ingredients, and combine foods under time pressure. Work your way through a casual trattoria, a busy pizzeria, and an American-style roadside diner. Each restaurant has its own menu and challenges.
+DishDash challenges you to manage multiple orders, prep ingredients, and combine foods under time pressure. Work your way through a casual burger restaurant, a busy pizzeria, and an American-style roadside diner. Each restaurant has its own menu and challenges.
 
 The game features:
 - Extensible food combination system built with Unity's ScriptableObjects
