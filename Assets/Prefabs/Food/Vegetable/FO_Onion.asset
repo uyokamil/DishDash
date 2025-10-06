@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_Onion
+  m_EditorClassIdentifier: 
+  foodIdentifier: onion
+  foodType: 0
+  foodPrefab: {fileID: 1886414261639342, guid: 6b3cf99ce5a2f2340a4da866e950cacf, type: 3}
+  foodSprite: {fileID: 21300000, guid: 9f080a807690aba4fb6eb8807817a8af, type: 3}
+  preparationMethod: 2
+  preparationSpeed: 0
+  preparationResult: {fileID: 11400000, guid: 043428d1a59511b49934c7ba668d2d56, type: 2}
+  combineWith: []
+  combineResult: []

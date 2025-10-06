@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d37821028d6a340a8f3964a93adf95, type: 3}
+  m_Name: PO_PepperoniHamMushroom
+  m_EditorClassIdentifier: 
+  foodIdentifier: pizza_pepperonihammushroom
+  foodType: 2
+  foodPrefab: {fileID: 0}
+  foodSprite: {fileID: 21300000, guid: 0e5d56e7ec85e2948921b788d57f258b, type: 3}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith: []
+  combineResult: []
+  toppings:
+  - {fileID: 11400000, guid: fc12ea05a12fb3d448e0adcec0b211cb, type: 2}
+  - {fileID: 11400000, guid: cf01338aea7c0cf4c9646c40e5e7a9b2, type: 2}
+  - {fileID: 11400000, guid: d7eb150579b9db24085ee8864c4a231f, type: 2}

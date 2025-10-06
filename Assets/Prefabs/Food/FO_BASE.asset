@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_BASE
+  m_EditorClassIdentifier: 
+  foodName: 
+  foodPrefab: {fileID: 0}
+  foodSprite: {fileID: 0}
+  preparationMethod: 0
+  preparationResult: {fileID: 0}
+  canBeCombined: 0
+  combineWith: []
+  combineResult: []

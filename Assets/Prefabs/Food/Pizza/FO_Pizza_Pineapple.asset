@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_Pizza_Pineapple
+  m_EditorClassIdentifier: 
+  foodIdentifier: pizza_topping_pineapple
+  foodType: 0
+  foodPrefab: {fileID: 919132149155446097, guid: 08dfd040b4827d844938d74a3a4a2069, type: 3}
+  foodSprite: {fileID: 0}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith: []
+  combineResult: []

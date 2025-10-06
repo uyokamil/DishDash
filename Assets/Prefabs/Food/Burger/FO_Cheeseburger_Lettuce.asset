@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_Cheeseburger_Lettuce
+  m_EditorClassIdentifier: 
+  foodIdentifier: cheeseburger_lettuce
+  foodType: 0
+  foodPrefab: {fileID: 1255860985521506, guid: 7df4db953652b744ab073100b1e49418, type: 3}
+  foodSprite: {fileID: 21300000, guid: e0f09a67843d01c45b705c582a5699bb, type: 3}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith: []
+  combineResult: []

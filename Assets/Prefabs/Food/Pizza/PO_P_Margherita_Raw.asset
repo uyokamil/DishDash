@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d37821028d6a340a8f3964a93adf95, type: 3}
+  m_Name: PO_P_Margherita_Raw
+  m_EditorClassIdentifier: 
+  foodIdentifier: pizza_margherita_raw
+  foodType: 2
+  foodPrefab: {fileID: 1221127370124988, guid: 4dce406dbb274cc41b02424093f4558e, type: 3}
+  foodSprite: {fileID: 0}
+  preparationMethod: 9
+  preparationSpeed: 0
+  preparationResult: {fileID: 11400000, guid: 5488a4dc186a7e241b821019f192804c, type: 2}
+  combineWith:
+  - {fileID: 11400000, guid: 8736de1ddef9f5345861765abc48fd12, type: 2}
+  - {fileID: 11400000, guid: 602a4ed26cff18a45bfe41a4e0b8aee1, type: 2}
+  - {fileID: 11400000, guid: ce718a28ef23c564494e68307aace53a, type: 2}
+  - {fileID: 11400000, guid: 4bd9011eeaa3cfc4b83ed6370e093c49, type: 2}
+  combineResult:
+  - {fileID: 11400000, guid: fc12ea05a12fb3d448e0adcec0b211cb, type: 2}
+  - {fileID: 11400000, guid: cf01338aea7c0cf4c9646c40e5e7a9b2, type: 2}
+  - {fileID: 11400000, guid: d7eb150579b9db24085ee8864c4a231f, type: 2}
+  - {fileID: 11400000, guid: 75dddace9427ef8489f8e2056468c3ed, type: 2}
+  toppings: []

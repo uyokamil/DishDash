@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_BurgerBun
+  m_EditorClassIdentifier: 
+  foodIdentifier: burger_bun
+  foodType: 0
+  foodPrefab: {fileID: 1677977753873304, guid: d15ac1f6706b2c64cb6e2922d374f4d0, type: 3}
+  foodSprite: {fileID: 21300000, guid: 63a06871ade3a6e46a505fe555caa7ab, type: 3}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith:
+  - {fileID: 11400000, guid: 7d5d9c0e26c39f14b83822bf692b7a6b, type: 2}
+  - {fileID: 11400000, guid: df671e948456bf242b48d237f531a1b9, type: 2}
+  - {fileID: 11400000, guid: 20185c474e1c29b40a4001b4f7598073, type: 2}
+  - {fileID: 11400000, guid: 37225601baf5f3541ada0ffa647a5f70, type: 2}
+  combineResult:
+  - {fileID: 11400000, guid: 98fbb20f59cf7464e906b2a148f383ed, type: 2}
+  - {fileID: 11400000, guid: 7ea2c8f1bb36c5249a003f64435a5abe, type: 2}
+  - {fileID: 11400000, guid: 983751d75d7268a4dbe8da4cf82112d4, type: 2}
+  - {fileID: 11400000, guid: 6881d13d821d2f9438db8b2b2c45af87, type: 2}

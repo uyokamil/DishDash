@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_BreadSlice
+  m_EditorClassIdentifier: 
+  foodIdentifier: bread_slice
+  foodType: 0
+  foodPrefab: {fileID: 919132149155446097, guid: 64123284377320a46b65847acea2f16f, type: 3}
+  foodSprite: {fileID: 21300000, guid: 72dd99830839c894298670903b4660bb, type: 3}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith:
+  - {fileID: 11400000, guid: e0db3f7cd1acd8b4c8e25ec6c56aa8fb, type: 2}
+  combineResult:
+  - {fileID: 11400000, guid: b7c5da51772ce0143ae75e39a12332c2, type: 2}

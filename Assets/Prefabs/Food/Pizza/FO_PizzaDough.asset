@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832958ced3ac08c42b90b02d87b99179, type: 3}
+  m_Name: FO_PizzaDough
+  m_EditorClassIdentifier: 
+  foodIdentifier: pizza_dough
+  foodType: 0
+  foodPrefab: {fileID: 1314514850176620, guid: bf5d45e59a9a05141afa57b02d37c7a9, type: 3}
+  foodSprite: {fileID: 21300000, guid: e1e2b8fdf4a6fa346abff8ba84e6a144, type: 3}
+  preparationMethod: 0
+  preparationSpeed: 0
+  preparationResult: {fileID: 0}
+  combineWith:
+  - {fileID: 11400000, guid: 0c15815c7177f344fa007e08ece88069, type: 2}
+  combineResult:
+  - {fileID: 11400000, guid: d9493f2fab665d8478d032b0ee850887, type: 2}
